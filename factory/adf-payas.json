@@ -1,0 +1,9 @@
+{
+	"name": "adf-payas",
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b4cedf70-f259-42d3-8def-0a56a162ed1f",
+		"tenantId": "aeacb69a-75de-4d5b-b326-121d8e6d2c17"
+	}
+}
