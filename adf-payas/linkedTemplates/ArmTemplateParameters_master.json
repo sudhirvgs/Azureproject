@@ -1,0 +1,33 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "adf-payas"
+		},
+		"ADLS_linked_accountKey": {
+			"value": ""
+		},
+		"AzureSqlDatabase_linked_password": {
+			"value": ""
+		},
+		"ADLS_linked_properties_typeProperties_url": {
+			"value": "https://storageazureproject6.dfs.core.windows.net/"
+		},
+		"AzureSqlDatabase_linked_properties_typeProperties_server": {
+			"value": "azurepayasserver.database.windows.net"
+		},
+		"AzureSqlDatabase_linked_properties_typeProperties_database": {
+			"value": "db-payas"
+		},
+		"AzureSqlDatabase_linked_properties_typeProperties_userName": {
+			"value": "adminvgs"
+		},
+		"containerUri": {
+			"value": ""
+		},
+		"containerSasToken": {
+			"value": ""
+		}
+	}
+}
