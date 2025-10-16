@@ -327,31 +327,31 @@
 					{
 						"schema": "dbo",
 						"table": "DimUser",
-						"cdc_col": "updated_at",
+						"CDC_column": "updated_at",
 						"from_date": ""
 					},
 					{
 						"schema": "dbo",
 						"table": "DimTrack",
-						"cdc_col": "updated_at",
+						"CDC_column": "updated_at",
 						"from_date": ""
 					},
 					{
 						"schema": "dbo",
 						"table": "DimDate",
-						"cdc_col": "date",
+						"CDC_column": "date",
 						"from_date": ""
 					},
 					{
 						"schema": "dbo",
 						"table": "DimArtist",
-						"cdc_col": "updated_at",
+						"CDC_column": "updated_at",
 						"from_date": ""
 					},
 					{
 						"schema": "dbo",
 						"table": "FactStream",
-						"cdc_col": "stream_timestamp",
+						"CDC_column": "stream_timestamp",
 						"from_date": ""
 					}
 				]
